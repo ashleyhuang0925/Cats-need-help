@@ -11,4 +11,5 @@ body {
 h1{
 
 	border-style: double;
+	border-width: 10px;
 }
