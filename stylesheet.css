@@ -8,3 +8,7 @@ body {
 	color: white;
 	background-color: black;
 }
+h1{
+
+	border-style: double;
+}
