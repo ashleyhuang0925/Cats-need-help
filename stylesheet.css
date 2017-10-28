@@ -47,3 +47,8 @@ input[type=text]:focus {
     width: 100%;
 }	
 	
+/* Style the navbar */
+#navbar {
+  overflow: hidden;
+  background-color: turqoise;
+}
