@@ -47,7 +47,7 @@ input[type=text]:focus {
     width: 100%;
 }	
 
-{/* The navigation bar */
+/* The navigation bar */
 .navbar {
     overflow: hidden;
     background-color: #333;
